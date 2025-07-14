@@ -43,9 +43,10 @@
 <div align=center>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDO-M7&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="top langs" />
   <br/>
-  [![](https://visitcount.itsvg.in/api?id=ABDO-M7&icon=0&color=4)](https://visitcount.itsvg.in)
   
 </div>
+  [![](https://visitcount.itsvg.in/api?id=ABDO-M7&icon=0&color=4)](https://visitcount.itsvg.in)
+
 
 <br/><br/>
 
