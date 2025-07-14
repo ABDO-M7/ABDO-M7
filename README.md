@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **a  car rental shop**
  
- 🌱 I’m currently learning **Ai ane machine learning**
+ 🌱 I’m currently learning **Ai anي machine learning**
 
 
  </div>
@@ -28,7 +28,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,tailwind,git,r,mongodb" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c++,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java,mysql" /><br>
 </div>
 
 <br/>
