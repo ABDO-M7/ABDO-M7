@@ -36,7 +36,6 @@
 
 
 
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -45,8 +44,13 @@
   <br/>
   
 </div>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+html
+Copy
+Edit
+<div align="center">
+  <img src="[https://visitcount.itsvg.in/api?id=ABDO-M7&icon=0&color=4" alt="Visitor Count](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)" />
+</div>
 
 <br/><br/>
 
