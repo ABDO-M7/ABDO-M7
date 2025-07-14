@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **a  car rental shop**
  
- 🌱 I’m currently learning **Ai anي machine learning**
+ 🌱 I’m currently learning **Ai and machine learning**
 
 
  </div>
