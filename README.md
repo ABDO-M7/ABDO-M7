@@ -45,7 +45,7 @@
   <br/>
   
 </div>
-  [![](https://visitcount.itsvg.in/api?id=ABDO-M7&icon=0&color=4)](https://visitcount.itsvg.in)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 <br/><br/>
