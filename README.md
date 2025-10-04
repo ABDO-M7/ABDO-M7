@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdo!;" />
 </h1>
 
-<h3 align="center">A passionate software Engineer</h3>
+<h3 align="center">A passionate Machine Learning Engineer</h3>
 
 <br/>
 
@@ -27,7 +27,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,tailwind,git,r,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,tailwind,git,r,mongodb,pandas" />
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java,mysql" /><br>
 </div>
 
